@@ -39,8 +39,10 @@ I have excellent design & coding skills, as well as an ability to convert requir
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://kazim110.github.io/My-Portfolio-Project/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.kazim's-Portfolio.com.np-blue?style=flat&logo=google-chrome"></a>
+ <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://kazim110.github.io/My-Portfolio-Project/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.kazim-Portfolio.com-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/kazim-mohammadi-89aa4a1aa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kazim-mohammadi-89aa4a1aa-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/13706117/kazim-mohammadi?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Kazim%20Mohammadi-blue?style=flat&logo=stackoverflow"></a>
+<a href="https://stackoverflow.com/users/13706117/kazim-mohammadi?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Kazim%Mohammadi-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:kazim.mohammadi110@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kazim.mohammadi110@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
