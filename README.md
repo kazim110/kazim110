@@ -33,8 +33,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/kazim110/My-Portfolio-Project)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/kazim110/Afghnistan-Developers-Conference)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazim110&repo=My-Portfolio-Project&show_owner=true)](https://github.com/kazim110/My-Portfolio-Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kazim110&repo=Afghnistan-Developers-Conference&show_owner=true)](https://github.com/kazim110/Afghnistan-Developers-Conference)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
