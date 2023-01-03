@@ -29,7 +29,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 
-[![M Kazim Mohammadi GitHub Stats](https://github-readme-stats.vercel.app/api?username=anandmainali&show_icons=true&count_private=true)](https://github.com/kazim110)
+[![M Kazim Mohammadi GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazim110&show_icons=true&count_private=true)](https://github.com/kazim110)
 
 ### Github Repos
 
