@@ -7,7 +7,7 @@
 > Software Engineer from [Microverse](https://microverse.com)
 
 
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+<img src="https://komarev.com/ghpvc/?username=kazim110" alt="kazim110" />
 
 <div>
  <p>
