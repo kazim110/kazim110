@@ -6,7 +6,6 @@
 ### Hi there 👋 I'm [Mohammad Kazim Mohammadi](https://kazim110.github.io/My-Portfolio-Project/)
 > Software Engineer from [Microverse](https://microverse.com)
 
-
 <img src="https://komarev.com/ghpvc/?username=kazim110" alt="kazim110" />
 
 <div>
